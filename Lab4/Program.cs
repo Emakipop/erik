@@ -25,7 +25,7 @@ while (true)
         case 5:
             result = aValue * bValue;
             Console.WriteLine(result);
-            break
+            break;
     }
 }
 
